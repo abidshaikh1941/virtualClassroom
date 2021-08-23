@@ -1,7 +1,7 @@
+As there are lots of file to upload i am attaching a zip which have all files used in this project!!
 /------------------------------------------/
 **Api Documentaion**
 https://documenter.getpostman.com/view/17186648/TzzDJuos
-
 
 **files**
 /ER_202012035.pdf ER-Diagram
